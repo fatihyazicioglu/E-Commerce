@@ -1,1 +1,0 @@
-full functional E commerce App
