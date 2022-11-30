@@ -117,7 +117,7 @@ export default function CartScreen() {
                       onClick={checkoutHandler}
                       disabled={cartItems.length === 0}
                     >
-                      Proceed to Checkout
+                      Proceed1 to Checkout
                     </Button>
                   </div>
                 </ListGroup.Item>
