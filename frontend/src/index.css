@@ -21,7 +21,7 @@ main {
 }
 
 .product {
-  border: 1px #404040 solid;
+  border: 1px #787878 solid;
   margin: 1rem;
 }
 .product img {
@@ -35,8 +35,23 @@ main {
   max-width: 100%;
 }
 .img-thumbnail {
-  width:  140px;
+  height: 90px;
 }
 .small-container {
   max-width: 600px;
+}
+.product-link{
+  text-decoration: none ;
+  color: #3d3131;
+}
+.product-price{
+  font-size: 35px;
+  margin-top: 50px;
+  background-color: rgb(247, 235, 220);
+  border-radius: 0.5rem;
+  padding-left: 30%;
+  align-content: space-between;
+}
+.rating{
+color: rgb(94, 92, 92);
 }
