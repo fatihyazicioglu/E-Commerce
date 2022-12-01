@@ -35,5 +35,8 @@ main {
   max-width: 100%;
 }
 .img-thumbnail {
-  width:  90px;
+  width:  140px;
+}
+.small-container {
+  max-width: 600px;
 }
