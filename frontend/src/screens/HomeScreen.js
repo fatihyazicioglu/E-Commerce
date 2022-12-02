@@ -44,9 +44,9 @@ function HomeScreen() {
   return (
     <div>
       <Helmet>
-        <title>MAF MusicShop</title>
+        <title> MusicShop</title>
       </Helmet>
-      <h1>Music Shop</h1>
+      <h1>Guitars</h1>
 
       <div className='products'>
         {loading ? (
