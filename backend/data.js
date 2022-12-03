@@ -1,7 +1,7 @@
 const data = {
     products: [
       {
-        _id: '1',
+        // _id: '1',
         name: 'Harley Benton Custom Line Nashville Nylon',
         slug: 'nike-slim-shirt',
         category: 'Shirts',
@@ -14,7 +14,7 @@ const data = {
         description: 'Solid Body Acoustic Guitar with Pickup',
       },
       {
-        _id: '2',
+        // _id: '2',
         name: 'Marcus Miller M7 Swamp Ash 5st TBK 2nd Gen',
         slug: 'adidas-fit-shirt',
         category: 'Shirts',
@@ -27,7 +27,7 @@ const data = {
         description: 'high quality product',
       },
       {
-        _id: '3',
+        // _id: '3',
         name: 'Takamine GD51CE-NAT LH nat LH',
         slug: 'nike-slim-pant',
         category: 'Pants',
@@ -40,7 +40,7 @@ const data = {
         description: 'high quality product',
       },
       {
-        _id: '4',
+        // _id: '4',
         name: 'Godin Grand Concert SA Konzertgitarre',
         slug: 'adidas-fit-pant',
         category: 'Pants',
