@@ -14,6 +14,7 @@ import { Store } from "./Store";
 import { Link } from "react-router-dom";
 import CartScreen from './screens/CartScreen';
 import SigninScreen from './screens/SigninScreen';
+import ShippingAddressScreen from "./screens/ShippingAddressScreen";
 
 
 function App() {
@@ -77,6 +78,10 @@ function App() {
               <Route path="/signin" element={<SigninScreen />} />
               <Route path="/cart" element={<CartScreen />} />
               <Route path='/' element={<HomeScreen />} />
+              <Route
+                path="/shipping"
+                element={<ShippingAddressScreen />}
+              ></Route>
             </Routes>
           </Container>
         </main>
