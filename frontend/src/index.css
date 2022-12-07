@@ -49,11 +49,11 @@ main {
   color: #f08000;
 }
 
-.product-link{
-  text-decoration: none ;
+.product-link {
+  text-decoration: none;
   color: #3d3131;
 }
-.product-price{
+.product-price {
   font-size: 35px;
   margin-top: 50px;
   background-color: rgb(247, 235, 220);
@@ -61,6 +61,10 @@ main {
   padding-left: 30%;
   align-content: space-between;
 }
-.rating{
-color: rgb(94, 92, 92);
+.rating {
+  color: rgb(94, 92, 92);
+}
+
+.previewOrder-Edit {
+  color: rgb(94, 92, 92);
 }
