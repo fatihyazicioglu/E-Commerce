@@ -6,13 +6,18 @@ import App from "./App";
 import "bootstrap/dist/css/bootstrap.min.css";
 import reportWebVitals from "./reportWebVitals";
 import { StoreProvider } from './Store';
+import { PayPalScriptProvider } from '@paypal/react-paypal-js';
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
+
+  //deferloading : true means dont load at the begginning of the app
   <React.StrictMode>
      <StoreProvider>
       <HelmetProvider>
-        <App />
+        <PayPalScriptProvider deferLoading={true}>
+          <App />
+        </PayPalScriptProvider>
       </HelmetProvider>
     </StoreProvider>
   </React.StrictMode>
