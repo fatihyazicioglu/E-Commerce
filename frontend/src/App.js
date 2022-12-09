@@ -44,6 +44,7 @@ function App() {
     const fetchCategories = async () => {
       try {
         const { data } = await axios.get(`/api/products/categories`);
+        console.log('datais', data);
         setCategories(data);
       } catch (err) {
         toast.error(getError(err));

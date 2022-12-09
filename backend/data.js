@@ -20,7 +20,7 @@ const data = {
       // _id: '1',
       name: "Harley Benton Custom Line Nashville Nylon",
       slug: "harley-guitar",
-      category: "Bass Guitars",
+      category: "Nylon Guitars",
       image: "/images/p1.jpg", // 679px × 829px
       price: 120,
       countInStock: 10,
