@@ -1,4 +1,4 @@
-# E-Commerce
+# My MusicShop- Ecommerce APP
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,express,nodejs,mongodb,)](https://skillicons.dev)
 
  ##### a fully functional e.commerce website like amazon
