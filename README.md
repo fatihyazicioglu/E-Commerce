@@ -1,8 +1,8 @@
 # My MusicShop- Ecommerce APP
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,express,nodejs,mongodb,)](https://skillicons.dev)
-
- ##### a fully functional e.commerce website like amazon
- ##### user friendly front-end and  a scalable backend 
+https://mern-ecommerce-musicshop.onrender.com/
+ ##### a fully functional e.commerce website like amazon --->>   user friendly front-end and  a scalable backend 
+ 
  ![EcommerceScreenShoot](https://user-images.githubusercontent.com/90527874/207983655-9ae894d3-df8e-4af8-984f-40144b39aa0d.png)
  ##### you can connect it to payment gateways for online payment 
  ##### react hooks to handle form inputs fetch backend api 
