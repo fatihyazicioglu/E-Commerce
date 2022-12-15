@@ -6,6 +6,6 @@
 ### managing and monitoring app state by react context(useReducer) 
 ### handling shopping cart using reducer and local storage
 ### building backend web api by node and express js
-### creating mongodb database and performing cloud
-operations on database models by mongoose
+### creating mongodb database 
+### performing cloud operations on database models by mongoose
 ### handling autenthication and authorization using jsnon web token and express middleware
